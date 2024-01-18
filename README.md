@@ -21,7 +21,7 @@ Este é um projeto de uma lista de tarefas em React, sendo meu primeiro projeto 
 </div>
 
 ## Como usar?
-- Os usuários podem acessar a Landing Page diretamente no navegador.
+- Os usuários podem acessar a Aplicação diretamente pelo link em seu navegador.
 
 ## Link do Projeto:
 - [To-do List](https://to-do-list-hazel-nu.vercel.app/)
